@@ -11,8 +11,6 @@ and implements best practices like **Hibernate Validation**, **Lombok for boiler
 
 - Create a new department
 - Get all departments
-- Get a department by ID
-- Get a department by name
 - Update an existing department
 - Delete a department
 - Validation with Hibernate Validator
